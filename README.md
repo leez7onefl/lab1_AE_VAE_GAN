@@ -60,9 +60,13 @@ The implementation consists of a modular structure with separate files for diffe
 ## Results
 
 ### Hyperparameters
+<img width="181" alt="result3" src="https://github.com/user-attachments/assets/a9176ba3-82ed-4f4e-96cd-ce0cb7f7ec2d" />
 
 ### Training Loss Over Time
+![result2](https://github.com/user-attachments/assets/f1565d0d-1c77-4de0-ad63-b5c3f438ee38)
 
 ### VAE Image Generation
+<img width="427" alt="result1" src="https://github.com/user-attachments/assets/bb2df0ae-6dc1-4f2d-be01-0ee282758de9" />
 
 ### Reconstructed Images and Latent Space Visualization
+<img width="869" alt="result4" src="https://github.com/user-attachments/assets/f14691b1-7339-4fac-ac41-776636a7155b" />
